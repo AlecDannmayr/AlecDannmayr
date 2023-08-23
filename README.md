@@ -6,7 +6,7 @@ Developer | Snowboarder | Tech enthusiast
 
 <img width="40%" align="right" alt="Developer" src="https://raw.githubusercontent.com/TWinsnes/TWinsnes/master/images/developer.svg" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/winsnes/) [![LinkedIn](https://www.linkedin.com/in/alec-dannmayr-9bb265109/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/winsnes/](https://www.linkedin.com/in/alec-dannmayr-9bb265109/))
 
 👋 Hey, I'm Alec Dannmayr! I'm a passionate React developer who loves crafting interactive and user-centric web applications. With a solid background in JavaScript, I'm dedicated to building seamless user experiences and exploring the latest trends in web development.
 

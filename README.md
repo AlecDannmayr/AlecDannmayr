@@ -1,49 +1,28 @@
-# Alec Dannmayr's GitHub Portfolio
+Github readme
 
-Welcome to my GitHub repository! This is where I showcase my projects, contributions, and skills related to React and JavaScript development. I'm passionate about creating dynamic and interactive web applications that provide meaningful experiences to users.
+## Hello! 👋<br /> I'm Alec Dannmayr
 
-## About Me
+Developer | Snowboarder | Tech enthusiast 
 
-Hey there! I'm Alec Dannmayr, a dedicated React developer with a strong penchant for creating efficient and elegant solutions. With a background in JavaScript, I'm constantly exploring new libraries, frameworks, and technologies to stay at the forefront of web development trends.
+<img width="40%" align="right" alt="Developer" src="https://raw.githubusercontent.com/TWinsnes/TWinsnes/master/images/developer.svg" />
 
-## Projects
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/winsnes/) [![LinkedIn](https://www.linkedin.com/in/alec-dannmayr-9bb265109/)
 
-### Project 1: Interactive Task Manager
+👋 Hey, I'm Alec Dannmayr! I'm a passionate React developer who loves crafting interactive and user-centric web applications. With a solid background in JavaScript, I'm dedicated to building seamless user experiences and exploring the latest trends in web development.
 
-Description: A responsive task manager built using React that allows users to add, edit, and prioritize tasks. It features drag-and-drop functionality and a clean user interface.
+🚀 Let's connect and create amazing things together!
 
-Repository: [Task Manager Repo](https://github.com/alecdannmayr/task-manager)
+<!--
+**TWinsnes/TWinsnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Project 2: E-commerce Website
+Here are some ideas to get you started:
 
-Description: An e-commerce platform developed using React, Redux, and Firebase. Users can browse products, add them to the cart, and complete the checkout process.
-
-Repository: [E-commerce Repo](https://github.com/alecdannmayr/e-commerce-website)
-
-## Contributions
-
-### React UI Library
-
-Description: I've contributed to a popular open-source React UI library, focusing on components that enhance user experience and streamline development.
-
-Repository: [UI Library Repo](https://github.com/ui-library/react-components)
-
-## Skills
-
-- React
-- JavaScript
-- HTML5 & CSS3
-- Redux
-- Responsive Design
-- Git & Version Control
-- RESTful APIs
-- UI/UX Design Principles
-
-## Contact Me
-
-Feel free to reach out if you're interested in collaborating, have questions, or just want to connect. You can find me on LinkedIn and Twitter:
-
-- LinkedIn: [Alec Dannmayr](https://www.linkedin.com/in/alecdannmayr)
-- Twitter: [@alecdann_dev](https://twitter.com/alecdann_dev)
-
-Let's build something amazing together!
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
